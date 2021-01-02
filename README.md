@@ -106,9 +106,9 @@ In step 4, we will enable Application Insights by running logs.py file and check
 - Type `source ./dev/Scripts/activate`
 2) Run [logs.py](https://github.com/chamsun-imoggo/udacityms-2ndproject/blob/main/code/logs.py) file. Here, the deployment of the best model name should be matched with your model name. Type `python logs.py`
 3) Check whether the 'Application Insights' is enabled or not in the Details tab of the endpoint
-![Step4_ApplicationInsights_Enabled](Step4_ApplicationInsights_Enabled.png)
+![Step4_ApplicationInsights_Enabled](img/Step4_ApplicationInsights_Enabled.png)
 4) You can see the logs like below
-![Step4_Application_Insights_Logs.png](Step4_Application_Insights_Logs.png)
+![Step4_Application_Insights_Logs.png](img/Step4_Application_Insights_Logs.png)
 
 ### Step 5. Swagger Documentation
 
