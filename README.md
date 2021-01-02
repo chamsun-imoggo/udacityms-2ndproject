@@ -108,7 +108,7 @@ In step 4, we will enable Application Insights by running logs.py file and check
 3) Check whether the 'Application Insights' is enabled or not in the Details tab of the endpoint
 ![Step4_ApplicationInsights_Enabled](img/Step4_ApplicationInsights_Enabled.png)
 4) You can see the logs like below
-![Step4_Application_Insights_Logs.png](img/Step4_Application_Insights_Logs.png)
+![Step4_Application_Insights_Logs.png](img/Step4_ApplicationInsights_Logs.png)
 
 ### Step 5. Swagger Documentation
 
