@@ -19,6 +19,9 @@ For the sample code for this project, you can find from [here](https://github.co
 
 ## Architectural Diagram
 
+![2ndProject_Diagram](img/2ndProject_Diagram.png)
+
+After we feed the dataset to AutoML, we can select the best run, deploy this model then finally we can consume the pipeline.
 
 ## Key Steps
 ### Step 1. Authentication
@@ -168,7 +171,7 @@ In step 7, we will create and publish a pipeline by running this jupyter noteboo
 ![Step7_Scheduled_Run](img/Step7_Scheduled_Run.png)
 
 ## Screen Recording
-Click [Here]() to go to the screen recording for this project brief explanation.
+Click [Here](https://youtu.be/L9qXJLXIcHQ) to go to the screen recording for this project brief explanation.
 - Working deployed ML model endpoint
 - Deployed Pipeline
 - Available AutoML Model
