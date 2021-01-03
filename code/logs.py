@@ -5,7 +5,7 @@ from azureml.core.webservice import Webservice
 ws = Workspace.from_config()
 
 # Set with the deployment name
-name = "automl-best-model"
+name = "best-automl-model"
 
 # load existing web service
 service = Webservice(name=name, workspace=ws)
