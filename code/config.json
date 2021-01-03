@@ -1,5 +1,5 @@
 {
-    "subscription_id": "3d1a56d2-7c81-4118-9790-f85d1acf0c77",
-    "resource_group": "aml-quickstarts-133111",
-    "workspace_name": "quick-starts-ws-133111"
+    "subscription_id": "<your_subscription_id",
+    "resource_group": "<your_resource_group>",
+    "workspace_name": "<your_workspace_name>"
 }
