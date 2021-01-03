@@ -70,4 +70,4 @@
 # Total:        114  160  28.0    172     199#
 
 
- ab -n 10 -v 4 -p data.json -T 'application/json' -H 'Authorization: Bearer FaMKbeGQCaLiGVZXxwjChSaVjridzGad' http://8f9c6ffb-6820-4949-a552-52cebcda7595.southcentralus.azurecontainer.io/score
+ ab -n 10 -v 4 -p data.json -T 'application/json' -H 'Authorization: Bearer <your_key>' your_scoring_uri

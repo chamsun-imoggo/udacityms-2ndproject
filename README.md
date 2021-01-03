@@ -168,7 +168,7 @@ In step 7, we will create and publish a pipeline by running this jupyter noteboo
 ![Step7_Scheduled_Run](img/Step7_Scheduled_Run.png)
 
 ## Screen Recording
-Go to [Screen Recording]() for this project
+Click [Here]() to go to the screen recording for this project brief explanation.
 - Working deployed ML model endpoint
 - Deployed Pipeline
 - Available AutoML Model
